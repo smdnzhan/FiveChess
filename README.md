@@ -7,3 +7,4 @@ GameUI:游戏主窗体。
 
 GamePanel:面板类，实现棋盘棋子的绘制和维持，还有菜单栏的实现。  
 
+ChessConfig：参数接口
